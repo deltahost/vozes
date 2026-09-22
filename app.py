@@ -6,8 +6,8 @@ import os
 import urllib.request
 import tempfile
 
-FIREBASE_API_KEY = "SUA_API_KEY_AQUI"
-FIREBASE_PROJECT_ID = "SEU_PROJECT_ID_AQUI"
+FIREBASE_API_KEY = "AIzaSyBRJ7AaWc_JHZ_IcMd8qGbKwUZ2GMTqMg0"
+FIREBASE_PROJECT_ID = "clonevoice-app"
 
 class FirebaseClient:
     def __init__(self, api_key, project_id):
