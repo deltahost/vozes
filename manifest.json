@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "filename": "app.so",
+  "sha256": "6b8853cfed5bbc280fc3c772035d2e529c186b94bedf47c1217757a7c2f9ca62",
+  "size": 927280,
+  "python": "3.13",
+  "format": "cython-extension-linux",
+  "signature": "B79de+kWkPdTussrhpLUw901pIil/iWtQo18jyyjWqbZZPANf7yJ60uu6gkSG/6zWoFZJHvsuP0w1pAJHRT+Cw=="
+}
