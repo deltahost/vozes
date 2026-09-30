@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
   "filename": "app.so",
-  "sha256": "335f1823a26ff8152cea875ebf819c2b7a02a2cef2fb3ef4c71c38bee996ca38",
-  "size": 960368,
+  "sha256": "329294a9173d6c2d9334812fff9752f6be756179a7658f3d56c596b503d60e0f",
+  "size": 964464,
   "python": "3.13",
   "format": "cython-extension-linux",
-  "signature": "ZAlOSFgAOii3HIPCqV4oekVM7Job54717HQR82KCdH5CB+k5MaQ1vnp0cF0mJ3OuzAr5Lc29DmmcSMwUK3I5AA=="
+  "signature": "N81Q6Al0Tl5hk0itjRhqhvDJC54esuoO29Rp5BHfit8r7byckwn4fYvvJJiIJPoAygp/s6W/v+So6SUvUoN3Bw=="
 }
